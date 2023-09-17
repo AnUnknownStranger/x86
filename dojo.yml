@@ -15,6 +15,4 @@ modules:
     description: The first module in this example dojo.
 
     challenges:
-    - id: main
-        name: main
-        description: This is main.
+
