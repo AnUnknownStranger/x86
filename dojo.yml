@@ -10,7 +10,7 @@ type: example
 
 modules:
 
-  - id: C
+  - id: Cx86
     name: main
     description: The first module in this example dojo.
 
