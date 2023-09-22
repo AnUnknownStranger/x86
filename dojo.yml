@@ -1,6 +1,6 @@
 id: example
 
-name: Example Dojo
+name: 86
 
 description: |
   This is an [example dojo](https://github.com/pwncollege/example-dojo).
@@ -10,7 +10,7 @@ type: example
 
 modules:
 
-  - id: Cx86
+  - id: main
     name: main
     description: The first module in this example dojo.
 
